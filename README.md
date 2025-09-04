@@ -10,3 +10,4 @@ Sweater
 <img width="1065" height="665" alt="image" src="https://github.com/user-attachments/assets/eba3af7f-0f9d-4954-9898-48a2aa7d652e" />
 
 Leather
+<img width="1065" height="675" alt="image" src="https://github.com/user-attachments/assets/503e3d24-6d7b-4829-9ff6-dd33c25c6f9d" />
